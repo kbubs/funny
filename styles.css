@@ -1,0 +1,46 @@
+*{
+  background-color:lightgoldenrodyellow;
+}
+#p{
+  color:red;
+}
+#r{
+  color:orange;
+}
+#o{
+  color:pink;
+}
+#j{
+  color:green;
+}
+#e{
+  color:blue;
+}
+#c{
+  color:purple;
+}
+#t{
+  color:aqua;
+}
+table, th, td {
+  border:1px solid black;
+}
+h1{
+  background-color:cornsilk;
+  font-family: "Lucida Console", Courier, monospace;
+}
+.table{
+  background-color:cornsilk;
+  text-align:left;
+  margin:auto;
+}
+
+.humor{
+  color:darkblue;
+  font-size:50px;
+  background-color:cornsilk;
+}
+ .rules{
+   font-weight:bold;
+   text-align:center;
+ }
