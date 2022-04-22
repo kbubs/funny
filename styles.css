@@ -44,3 +44,8 @@ h1{
    font-weight:bold;
    text-align:center;
  }
+
+img{
+  margin:auto;
+  border-radius:5px;
+}
